@@ -10,7 +10,7 @@ A number spelling utility for Node.js
 
 Typical usage:
 
-    var spelledNumber = require('../lib/spelled-number');
+    var spelledNumber = require('spelled-number');
 
 	spelledNumber.toWords(9999);
 	//=> "ninety nine thousand nine hundred ninety nine"

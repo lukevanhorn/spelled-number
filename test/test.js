@@ -1,10 +1,12 @@
 ﻿var spelledNumber = require('../lib/spelled-number');
 
 var testArray = [
+    0,
     2015,
     '1,234',
     '123,432,567',
     '143,000,000,000,001',
+    'There are 0 people on the spacecraft.',
     'The 2 users crashed 10 servers 1,234 times.',
     '410 million Windows 8.1 machines will upgrade to Windows 10 within the 1st year.',
     '9999,9999', //invalid, should not change

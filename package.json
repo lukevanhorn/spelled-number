@@ -1,0 +1,31 @@
+{
+    "name": "spelled-number",
+    "version": "0.1.0",
+    "description": "Number to words utility for Node.js",
+    "main": "lib/spelled-number.js",
+    "author": {
+        "name": "Luke Van Horn"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/lukevanhorn/spelled-number.git"
+    },
+    "bugs": {
+        "url": "https://github.com/lukevanhorn/spelled-number/issues"
+    },
+    "keywords": [
+        "number",
+        "words",
+        "speller"
+    ],
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "engine": {
+        "node": ">=0.8"
+    },
+    "homepage": "https://github.com/lukevanhorn/spelled-number"
+}

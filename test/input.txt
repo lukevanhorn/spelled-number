@@ -1,0 +1,24 @@
+﻿Microsoft should have Windows 10 on more than 410 million personal computers within 18 months of the new OS's release, 
+an analysis of user share data and upgrade tempos shows.
+
+More than three-fourths of all PCs running Windows 8 or 8.1 will migrate to Windows 10 in the first 18 months 
+of the latter's lifecycle. A smaller percentage of Windows 7 PCs will add hundreds of millions more to the tally, 
+even though most business and government devices will not shift to Windows 10 until 2017 or later.
+
+The calculations are based on the performance of Windows 8.1, the free upgrade Microsoft shipped in October 2013 
+as the follow-up to the original Windows 8 of the year before.
+
+Assuming 1.52 billion Windows PCs worldwide, that translates into 198 million machines 
+(17.1% share for Windows 8/8.1 at the end of June x 76% = 13% x 1.52 billion).
+
+....
+That 14 percent would represent 212 million PCs.
+
+Together, the Windows 8/8.1 and Windows 7 upgrades would total 410 million within a year and a half, 
+and at the end of the period account for 27 percent of all Windows PCs.
+
+The projection may be on the conservative side: Although the 27% would be a migration speed 
+record for Microsoft, beating the 25 percent uptake of Windows 7 in its first 18 months.
+
+But even sticking to the 410 million gives Microsoft a good jump on its 1 billion devices goal, 
+assuming that the length of Redmond's forecast is three years, not two.
